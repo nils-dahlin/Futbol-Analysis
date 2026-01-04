@@ -8,3 +8,5 @@
         - **Teams**
         - **Matches**
         - etc.
+
+- Look in worldfotballr R package for pulling fbref data
