@@ -1,6 +1,8 @@
 # requirements for this project
 numpy
 pandas
+duckdb
+glob
 requests
 matplotlib
 seaborn
