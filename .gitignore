@@ -3,3 +3,6 @@
 /futbol-analysis/
 # ignore database files
 *.db
+*.db.wal
+# ignore database folder
+database/
