@@ -1,5 +1,7 @@
 # ignore environment files
 .venv/
 /futbol-analysis/
-database/
+# ignore data
+data/
+# ignore database files
 *.db
