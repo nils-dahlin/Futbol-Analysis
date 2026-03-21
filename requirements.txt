@@ -10,3 +10,5 @@ scikit-learn
 bs4
 mplsoccer
 statsbombpy
+selenium
+webdriver-manager
